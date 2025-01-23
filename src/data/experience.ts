@@ -12,7 +12,7 @@ export const education = [
     title: "Bachelor of Electronics and Communication Engineering",
     organization: "Vellore Institute of Technology, chennai",
     date: "2018 - 2022",
-    description: "Major in Electronics and Communication Engineering with a focus on digital communication and signal processing."
+    description: "Major in Electronics and Communication Engineering with a CGPA of 8.57."
   },
   {
     title: "Intermediate",
