@@ -45,7 +45,7 @@ export function Hero() {
               <div className="relative mx-auto w-48 h-48 sm:w-64 sm:h-64">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-500 to-indigo-500 dark:from-blue-400 dark:to-indigo-400 rounded-[30%_70%_70%_30%/30%_30%_70%_70%] animate-blob"></div>
                 <img
-                    src="src/assets/profile-pic.jpeg"
+                    src="https://imgur.com/qBrOf4G"
                     alt="Profile"
                     className="absolute inset-4 object-cover rounded-[30%_70%_70%_30%/30%_30%_70%_70%] ring-4 ring-white dark:ring-gray-800 shadow-2xl w-[200px] h-[200px] object-center"
                 />
